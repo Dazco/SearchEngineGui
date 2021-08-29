@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxL0kT0Qh7gqPF6P/kCG0UGNd83bubBUiC00IaNgZ+prL8lEHQslT2uO/ux81PZM14Iaai1gS7nRy9g8/qCSwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dazco\\OneDrive\\Desktop\\project\\dotnet\\SearchEngine\\SearchEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dazco\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
